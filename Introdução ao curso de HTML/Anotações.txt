@@ -30,4 +30,11 @@ Estrutura básica
 <a>Link</a>
 <a href='hiperlink'</a>
 
-<a target="_blank">Link</a>
+<a target="_blank">Link</a> abrir o link em uma nova aba
+
+
+------------------------------------------------tag img------------------------------------------
+<img src='img/avatar.jpg'>
+
+<img alt='Foto de Lucas'>
+
