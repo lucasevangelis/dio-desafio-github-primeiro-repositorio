@@ -8,3 +8,11 @@ Estrutura básica
 <body>
 </body>
 </html
+
+-------------------------------------------SEMÂNTICA---------------------------------
+
+<section>                  <aside>
+                          
+<header>                   <footer>
+
+<article>                  <h1>-<h6>
