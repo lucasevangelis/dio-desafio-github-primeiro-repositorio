@@ -1,0 +1,9 @@
+ID X Classe
+
+<header id="header" class="header"></header
+
+<header class="header"></header>
+
+.header --> classe
+
+#header --> ID pode ser usado uma vez na página
