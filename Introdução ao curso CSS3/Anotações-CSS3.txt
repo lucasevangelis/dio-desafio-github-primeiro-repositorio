@@ -201,3 +201,15 @@ border-radius
 *border-radius: 50%
 *border-radius: 10% 20%
 *border-radius: 10% 20% 15% 22%;
+
+----------------------------------------------Dimensão e alinhamento------------------------------------------
+
+width  
+height
+
+max-width
+max-height
+
+margin
+
+text align
